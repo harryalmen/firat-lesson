@@ -1,1 +1,2 @@
-print("hello world")
+i = "sunny"
+print(f"{i} fuck mway's pusy")
